@@ -1,0 +1,527 @@
+0 /m/012xff Toothbrush
+1 /m/0939n_ Gargling
+2 /m/07qh7jl Creak
+3 /m/05zc1 Pulleys
+4 /m/07pl1bw Splinter
+5 /m/07sx8x_ Squawk
+6 /m/025_jnm Finger snapping
+7 /m/07r_80w Hoot
+8 /m/07plct2 Crushing
+9 /m/08j51y Dental drill
+10 /m/07s02z0 Squeal
+11 /m/07mzm6 Wheeze
+12 /m/0642b4 Cupboard open or close
+13 /m/023vsd Sanding
+14 /m/07q6cd_ Squeak
+15 /m/08p9q4 Sidetone
+16 /m/07n_g Tuning fork
+17 /m/07p78v5 Zing
+18 /m/07ppn3j Sniff
+19 /m/07pt_g0 Pulse
+20 /m/07pn_8q Chopping
+21 /m/07pqn27 Bouncing
+22 /m/07qw_06 Wail- moan
+23 /m/04fq5q Foghorn
+24 /m/0gy1t2s Bicycle bell
+25 /m/0hdsk Chirp tone
+26 /m/032n05 Whale vocalization
+27 /m/01g90h Stomach rumble
+28 /m/07qs1cx Crack
+29 /m/04gxbd electric windows
+30 /m/07s34ls Whir
+31 /m/01z47d Busy signal
+32 /m/0fqfqc Drawer open or close
+33 /m/03p19w Jackhammer
+34 /m/03cl9h Ice cream truck
+35 /m/07pyy8b Pant
+36 /m/04fgwm Electric toothbrush
+37 /m/0239kh Cowbell
+38 /m/07rv4dm Clang
+39 /m/05rj2 Shuffling cards
+40 /m/01lsmm Scissors
+41 /m/07plz5l Sigh
+42 /m/07r4wb8 Knock
+43 /m/07s0dtb Gasp
+44 /m/0l14l2 Shofar
+45 /m/03wwcy Doorbell
+46 /m/0790c Sonar
+47 /m/07r4k75 Grunt
+48 /m/09f96 Mosquito
+49 /m/05_wcq Bird flight
+50 /m/096m7z Noise
+51 /m/0dl9sf8 Throat clearing
+52 /m/07m2kt Chorus effect
+53 /m/07pws3f Bang
+54 /m/07hvw1 Field recording
+55 /m/024dl Cash register
+56 /m/07pdhp0 Biting
+57 /m/07rn7sz Shatter
+58 /m/01s0vc Zipper 
+59 /m/07qcx4z Tearing
+60 /m/015jpf Dial tone
+61 /m/07qlwh6 Squish
+62 /m/07s12q4 Crunch
+63 /m/07st88b Croak
+64 /m/02rhddq Reversing beeps
+65 /m/03wvsk Hair dryer
+66 /m/0242l Coin 
+67 /m/07prgkl Pour
+68 /m/05r5wn Rattle 
+69 /m/07qb_dv Scratch
+70 /m/025wky1 Air conditioning
+71 /m/04rmv Mouse
+72 /t/dd00088 Gush
+73 /m/07qv4k0 Scrape
+74 /m/02fxyj Humming
+75 /m/0dv5r Camera
+76 /t/dd00065 Light engine 
+77 /m/07pczhz Chop
+78 /m/07rrh0c Thunk
+79 /m/0k65p Hands
+80 /m/06xkwv Mains hum
+81 /m/01jg1z Heart murmur
+82 /m/04gy_2 Battle cry
+83 /m/0dv3j Boiling
+84 /m/07rbp7_ Whip
+85 /m/07pjwq1 Buzz
+86 /m/01v_m0 Sine wave
+87 /m/02c8p Telephone dialing
+88 /m/07pc8lb Breaking
+89 /m/07pyf11 Flap
+90 /m/07r67yg Ding-dong
+91 /t/dd00121 Boing
+92 /m/07bjf Single-lens reflex camera
+93 /m/0mbct Gong
+94 /m/01swy6 Yodeling
+95 /m/07r81j2 Caterwaul
+96 /m/07phhsh Rumble
+97 /t/dd00048 Train wheels squealing
+98 /m/03l9g Hammer
+99 /m/03v3yw Keys jangling
+100 /m/07q0yl5 Snort
+101 /m/07q4ntr Bellow
+102 /m/016622 Tubular bells
+103 /m/02mfyn Car alarm
+104 /m/07rgkc5 Static
+105 /m/02yds9 Purr
+106 /m/01y3hg Smoke detector
+107 /m/026fgl Wind chime
+108 /m/07qv_x_ Shuffle
+109 /m/046dlr Alarm clock
+110 /m/07q5rw0 Neigh- whinny
+111 /m/0xzly Maraca
+112 /m/07r5c2p Caw
+113 /m/07ptzwd Pump
+114 /m/0l7xg Gears
+115 /m/0c2wf Typewriter
+116 /m/07kc_ Theremin
+117 /m/09d5_ Owl
+118 /m/07p7b8y Fill (with liquid)
+119 /m/06hps Rodents
+120 /t/dd00006 Synthetic singing
+121 /m/0l156k Whistle
+122 /m/0150b9 Change ringing 
+123 /m/073cg4 Cap gun
+124 /t/dd00135 Children shouting
+125 /m/07rpkh9 Moo
+126 /m/02p01q Filing 
+127 /m/02bm9n Ratchet
+128 /m/07s2xch Groan
+129 /m/07pp8cl Telephone bell ringing
+130 /m/07r4gkf Patter
+131 /m/01h82_ Engine knocking
+132 /m/01x3z Clock
+133 /m/07brj Tambourine
+134 /m/0b9m1 Harmonic
+135 /m/07qv_d5 Toot
+136 /m/04229 Jet engine
+137 /m/04zmvq Train whistle
+138 /m/07qc9xj Clicking
+139 /m/07phxs1 Ding
+140 /m/07r5v4s Drip
+141 /m/07q7njn Chink - clink
+142 /m/07pp_mv Alarm
+143 /m/0ghcn6 Growling
+144 /m/0l15bq Clapping
+145 /m/0cdnk Roaring cats (lions tigers)
+146 /m/07sr1lc Yell
+147 /m/07pxg6y Eruption
+148 /m/07qwdck Ping
+149 /m/01b82r Sawing
+150 /m/05x_td Air horn- truck horn
+151 /m/04wptg Wedding music
+152 /t/dd00013 Children playing
+153 /m/07ptfmf Stir
+154 /m/01xq0k1 Cattle- bovinae
+155 /m/0fx9l Microwave oven
+156 /m/06hck5 Steam whistle
+157 /m/02x984l Mechanical fan
+158 /m/03cczk Chewing- mastication
+159 /m/0lyf6 Breathing
+160 /m/07qf0zm Howl
+161 /m/07sq110 Belly laugh
+162 /m/081rb Writing
+163 /m/039jq Glass
+164 /m/07rjzl8 Slam
+165 /m/04s8yn Crow
+166 /m/07szfh9 Cacophony
+167 /m/09xqv Cricket
+168 /m/0261r1 Babbling
+169 /t/dd00001 Baby laughter
+170 /m/06q74 Ship
+171 /m/02g901 Electric shaver- electric razor
+172 /m/01b9nn Reverberation
+173 /m/07ryjzk Slap- smack
+174 /m/01b_21 Cough
+175 /m/023pjk Cutlery- silverware
+176 /m/0gvgw0 Air brake
+177 /m/0l14t7 Singing bowl
+178 /m/07qyrcz Plop
+179 /m/07svc2k Gobble
+180 /m/0f8s22 Chime
+181 /m/0c3f7m Fire alarm
+182 /m/02p3nc Hiccup
+183 /m/07rrlb6 Splash- splatter
+184 /m/04cvmfc Roar
+185 /m/030rvx Buzzer
+186 /m/0_1c Artillery fire
+187 /m/068zj Pig
+188 /m/0l156b Steelpan
+189 /m/07r660_ Giggle
+190 /m/0cj0r Pink noise
+191 /m/02l6bg Propeller- airscrew
+192 /m/02y_763 Sliding door
+193 /m/01jg02 Heart sounds- heartbeat
+194 /m/07qn4z3 Rattle
+195 /m/0dl83 Arrow
+196 /t/dd00036 Angry music
+197 /t/dd00130 Engine starting
+198 /m/01hnzm Ringtone
+199 /m/01rd7k Turkey
+200 /m/014yck Aircraft engine
+201 /t/dd00032 Funny music
+202 /m/01280g Wild animals
+203 /m/027m70_ Jingle bell
+204 /m/02qmj0d String section
+205 /m/01hsr_ Sneeze
+206 /m/03w41f Church bell
+207 /m/01bns_ Zither
+208 /m/07p6mqd Slosh
+209 /m/0319l French horn
+210 /m/02_nn Fart
+211 /m/07qfgpx Jingle- tinkle
+212 /m/07r10fb Raindrop
+213 /m/02bxd Didgeridoo
+214 /m/06_y0by Environmental noise
+215 /m/03qc9zr Screaming
+216 /m/078jl Snake
+217 /m/09ld4 Frog
+218 /m/07qz6j3 Whimper
+219 /m/0jb2l Thunderstorm
+220 /m/02pjr4 Blender
+221 /m/01jnbd Echo
+222 /m/0ngt1 Thunder
+223 /m/07cx4 Telephone
+224 /g/122z_qxw Firecracker
+225 /m/03q5_w Burping- eructation
+226 /m/07p_0gm Throbbing
+227 /m/03xq_f Electronic organ
+228 /m/07p9k1k Sizzle
+229 /m/07pqc89 Trickle- dribble
+230 /m/07qmpdm Clatter
+231 /m/011k_j Timpani
+232 /m/07p6fty Shout
+233 /m/03gvt Hammond organ
+234 /m/07rqsjt Whoosh- swoosh- swish
+235 /m/03r5q_ Jingle (music)
+236 /m/07rcgpl Hum
+237 /m/0b_fwt Electronic tuner
+238 /m/02_41 Fire
+239 /t/dd00031 Happy music
+240 /m/0463cq4 Crying- sobbing
+241 /m/07pjjrj Smash- crash
+242 /m/07qfr4h Hubbub- speech noise- speech babble
+243 /m/07qwyj0 Rustle
+244 /m/0j2kx Waterfall
+245 /m/07pzfmf Crackle
+246 /m/0dwt5 Vibraphone
+247 /m/07rknqz Skidding
+248 /m/0h2mp Fly- housefly
+249 /m/0130jx Sink (filling or washing)
+250 /m/0h9mv Tire squeal
+251 /m/07rdhzs Whack- thwack
+252 /m/0jtg0 Sitar
+253 /m/0dxrf Frying (food)
+254 /m/02fs_r Beep- bleep
+255 /m/01yg9g Lawn mower
+256 /t/dd00112 Crumpling- crinkling
+257 /m/015y_n Swing music
+258 /m/02z32qm Fusillade
+259 /m/07qqyl4 Boom
+260 /m/02rtxlg Whispering
+261 /m/015vgc Carnatic music
+262 /m/07pdjhy Rub
+263 /m/07pbtc8 Walk- footsteps
+264 /m/03dnzn Bathtub (filling or washing)
+265 /m/07rgt08 Chuckle- chortle
+266 /m/0btp2 Traffic noise- roadway noise
+267 /m/01z5f Canidae- dogs- wolves
+268 /m/0brhx Speech synthesizer
+269 /m/02bk07 Chant
+270 /m/04k94 Liquid
+271 /m/06rqw Ska
+272 /m/09t49 Rustling leaves
+273 /m/01p970 Tabla
+274 /t/dd00037 Scary music
+275 /m/07qjznt Tick
+276 /m/02p0sh1 Traditional music
+277 /m/0195fx Subway- metro- underground
+278 /t/dd00033 Sad music
+279 /m/0192l Bagpipes
+280 /t/dd00018 Oink
+281 /t/dd00077 Mechanisms
+282 /m/01j4z9 Chainsaw
+283 /m/0dbvp Goose
+284 /m/07qnq_y Thump- thud
+285 /m/01glhc Tapping (guitar technique)
+286 /m/0chx_ White noise
+287 /m/04brg2 Dishes- pots- and pans
+288 /t/dd00136 Whimper (dog)
+289 /m/07qwf61 Honk
+290 /m/0395lw Bell
+291 /m/07s04w4 Snicker
+292 /m/04zjc Machine gun
+293 /m/0llzx Sewing machine
+294 /m/01h3n Bee- wasp- etc.
+295 /m/07rwj3x Whoop
+296 /m/0z9c A capella
+297 /m/07swgks Gurgling
+298 /m/012n7d Ambulance (siren)
+299 /m/07rkbfh Chatter
+300 /m/07qrkrw Meow
+301 /m/0dgbq Civil defense siren
+302 /m/0d31p Vacuum cleaner
+303 /m/01d380 Drill
+304 /m/074ft Song
+305 /m/01w250 Whistling
+306 /m/0dls3 Grunge
+307 /m/07rwm0c Clickety-clack
+308 /m/01m2v Computer keyboard
+309 /m/03m5k Harp
+310 /m/03fwl Goat
+311 /m/07s8j8t Roll
+312 /m/018w8 Basketball bounce
+313 /m/07q0h5t Bleat
+314 /m/03q5t Harpsichord
+315 /m/06j64v Middle Eastern music
+316 /m/07qn5dc Crowing- cock-a-doodle-doo
+317 /m/0316dw Typing
+318 /m/06wzb Steam
+319 /m/01wy6 Clarinet
+320 /m/0140xf Christmas music
+321 /m/01sm1g Wood block
+322 /m/03qjg Harmonica
+323 /m/02w4v Folk music
+324 /m/07c52 Television
+325 /m/01jt3m Toilet flush
+326 /m/028ght Applause
+327 /m/01h8n0 Conversation
+328 /m/014zdl Explosion
+329 /m/02fsn Double bass
+330 /m/0284vy3 Train horn
+331 /m/05lls Opera
+332 /m/07qsvvw Burst- pop
+333 /m/05w3f Psychedelic rock
+334 /m/01d3sd Snoring
+335 /m/07r_k2n Yip
+336 /m/0326g Flamenco
+337 /m/04rzd Mandolin
+338 /t/dd00002 Baby cry- infant cry
+339 /m/02jz0l Water tap- faucet
+340 /m/01jwx6 Vibration
+341 /m/018j2 Banjo
+342 /m/02cz_7 Beatboxing
+343 /m/07st89h Cluck
+344 /m/02dgv Door
+345 /m/0dq0md Music of Bollywood
+346 /m/0ln16 Salsa music
+347 /m/07qdb04 Quack
+348 /m/07rjwbb Hiss
+349 /m/09ddx Duck
+350 /m/05tny_ Bark
+351 /t/dd00005 Child singing
+352 /m/07bgp Sheep
+353 /m/0hsrw Sailboat- sailing ship
+354 /m/0145m Afrobeat
+355 /m/0gg8l Bluegrass
+356 /m/07c6l Trombone
+357 /m/034srq Waves- surf
+358 /m/056ks2 Rowboat- canoe- kayak
+359 /m/06w87 Steel guitar- slide guitar
+360 /m/0fd3y Ambient music
+361 /m/0j6m2 Stream
+362 /t/dd00038 Rain on surface
+363 /m/01hgjl Scratching (performance technique)
+364 /m/0mkg Accordion
+365 /m/07qjznl Tick-tock
+366 /m/0164x2 Music of Africa
+367 /m/0g12c5 Distortion
+368 /m/07r_25d Coo
+369 /m/0gywn Soul music
+370 /m/0199g Bicycle
+371 /m/013y1f Organ
+372 /m/02k_mr Drum roll
+373 /m/0cmf2 Fixed-wing aircraft- airplane
+374 /m/05rwpb Independent music
+375 /m/06_fw Skateboard
+376 /m/0g6b5 Fireworks
+377 /m/06ncr Saxophone
+378 /m/07qlf79 Spray
+379 /m/02mscn Christian music
+380 /m/02v2lh New-age music
+381 /m/03vt0 Insect
+382 /m/012ndj Fire engine- fire truck (siren)
+383 /m/06cqb Reggae
+384 /m/07pkxdp Lullaby
+385 /m/0j45pbj Mallet percussion
+386 /m/0_ksk Power tool
+387 /m/03k3r Horse
+388 /m/07rv9rh Clip-clop
+389 /m/05kq4 Ocean
+390 /m/0cfdd Drum machine
+391 /m/01z7dr Video game music
+392 /m/01m4t Printer
+393 /m/06mb1 Rain
+394 /m/07qcpgn Tap
+395 /m/083vt Wood
+396 /m/05fw6t Music for children
+397 /m/0dl5d Progressive rock
+398 /m/04qvtq Police car (siren)
+399 /m/0y4f8 Vocal music
+400 /m/0d8_n Pizzicato
+401 /m/09ct_ Helicopter
+402 /m/0912c9 Vehicle horn- car horn- honking
+403 /m/0283d Drum and bass
+404 /t/dd00134 Car passing by
+405 /m/07gql Trumpet
+406 /m/07rc7d9 Bow-wow
+407 /m/03qtq Hi-hat
+408 /m/028sqc Music of Asia
+409 /m/01yrx Cat
+410 /m/02x8m Funk
+411 /m/05r6t Punk rock
+412 /t/dd00034 Tender music
+413 /m/0dwtp Glockenspiel
+414 /m/026z9 Disco
+415 /m/0g293 Music of Latin America
+416 /m/06bz3 Radio
+417 /m/032s66 Gunshot- gunfire
+418 /t/dd00067 Heavy engine (low frequency)
+419 /m/016cjb Gospel music
+420 /m/02cjck Theme music
+421 /m/053hz1 Cheering
+422 /m/06h7j Run
+423 /m/08cyft Electronic dance music
+424 /m/07lnk Trance music
+425 /m/06bxc Rapping
+426 /m/03t3fj Rimshot
+427 /m/0ch8v Livestock- farm animals- working animals
+428 /m/07pggtn Chirp- tweet
+429 /m/01s0ps Electric piano
+430 /m/01qbl Cymbal
+431 /m/0155w Blues
+432 /m/02rr_ Effects unit
+433 /m/0l14j_ Flute
+434 /m/01c194 Mantra
+435 /m/03_d0 Jazz
+436 /m/0ggx5q Dance music
+437 /m/025td0t Background music
+438 /m/0l14qv Synthesizer
+439 /m/06j6l Rhythm and blues
+440 /m/01xqw Cello
+441 /m/01bjv Bus
+442 /m/07xzm Ukulele
+443 /m/0m0jc Electronica
+444 /m/01v1d8 Sampler
+445 /m/0k5j Aircraft
+446 /m/0dwsp Marimba- xylophone
+447 /m/01lyv Country
+448 /t/dd00035 Exciting music
+449 /m/01j3sz Laughter
+450 /m/03j1ly Emergency vehicle
+451 /m/085jw Wind instrument- woodwind instrument
+452 /t/dd00066 Medium engine (mid frequency)
+453 /m/07pb8fc Idling
+454 /m/025rv6n Fowl
+455 /m/09b5t Chicken- rooster
+456 /m/020bb7 Bird vocalization- bird call- bird song
+457 /m/018vs Bass guitar
+458 /m/03lty Heavy metal
+459 /t/dd00092 Wind noise (microphone)
+460 /m/0ltv Race car- auto racing
+461 /m/03mb9 House music
+462 /m/0l14gg Soundtrack music
+463 /m/0l14jd Choir
+464 /t/dd00127 Inside- public space
+465 /m/03m9d0z Wind
+466 /m/06rvn Snare drum
+467 /m/0ggq0m Classical music
+468 /t/dd00003 Male singing
+469 /m/04_sv Motorcycle
+470 /m/01kcd Brass instrument
+471 /m/028v0c Silence
+472 /m/0glt670 Hip hop music
+473 /t/dd00004 Female singing
+474 /m/02rlv9 Motorboat- speedboat
+475 /m/07k1x Tools
+476 /m/0c1dj Sound effect
+477 /m/01g50p Railroad car- train wagon
+478 /m/05pd6 Orchestra
+479 /m/06by7 Rock music
+480 /m/03kmc9 Siren
+481 /m/02zsn Female speech- woman speaking
+482 /m/0h0rv Pigeon- dove
+483 /m/064t9 Pop music
+484 /m/0838f Water
+485 /m/012f08 Motor vehicle (road)
+486 /m/06d_3 Rail transport
+487 /m/0bm02 Bass drum
+488 /m/07sbbz2 Rock and roll
+489 /m/0l14_3 Bowed string instrument
+490 /m/03qtwd Crowd
+491 /m/05148p4 Keyboard (musical)
+492 /m/07r04 Truck
+493 /m/05r5c Piano
+494 /m/0ytgt Child speech- kid speaking
+495 /m/02sgy Electric guitar
+496 /m/07q2z82 Accelerating- revving- vroom
+497 /m/07jdr Train
+498 /m/019jd Boat- Water vehicle
+499 /m/0bt9lr Dog
+500 /m/07s0s5r Strum
+501 /m/042v_gx Acoustic guitar
+502 /m/02hnl Drum kit
+503 /m/02qldy Narration- monologue
+504 /m/02mk9 Engine
+505 /m/0l14md Percussion
+506 /m/07gxw Techno
+507 /m/05zppz Male speech- man speaking
+508 /m/07s72n Dubstep
+509 /m/068hy Domestic animals- pets
+510 /m/026t6 Drum
+511 /m/015p6 Bird
+512 /t/dd00126 Inside- large room or hall
+513 /m/07y_7 Violin- fiddle
+514 /t/dd00128 Outside- urban or manmade
+515 /t/dd00129 Outside- rural or natural
+516 /m/02lkt Electronic music
+517 /m/0jbk Animal
+518 /m/0k4j Car
+519 /m/015lz1 Singing
+520 /m/0fx80y Plucked string instrument
+521 /m/0342h Guitar
+522 /t/dd00125 Inside- small room
+523 /m/04szw Musical instrument
+524 /m/07yv9 Vehicle
+525 /m/09x0r Speech
+526 /m/04rlf Music
