@@ -1,4 +1,9 @@
-# bare minimum to illustrate how to extract features using the trained model. 
+#Details in Paper "KNOWLEDGE TRANSFER FROM WEAKLY LABELED AUDIO USING CONVOLUTIONAL NEURAL NETWORK FOR SOUND EVENTS AND SCENES" at ICASSP 2018
+
+# Check out this webpage "http://www.cs.cmu.edu/~alnu/TLWeak.htm"
+
+# This code provides the  bare minimum to obtain audio representations using Deep CNN models trained on weakly labeled data (Audioset - Balanced set)  
+
 
 1. call the main function in feat_extractor - returns 1024 or 527 dimensional features
 
