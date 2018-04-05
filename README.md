@@ -1,4 +1,5 @@
-## Details "Knowledge Transfer From Weakly Labeled Audio Using Convolutional Neural Network For Sound Events And Scenes" Anurag Kumar, Maksim Khadkevich, Christian Fügen ICASSP 2018
+## Details "Knowledge Transfer From Weakly Labeled Audio Using Convolutional Neural Network For Sound Events And Scenes" Anurag Kumar, Maksim Khadkevich, Christian Fügen 
+## Published ICASSP 2018
 
 ### https://arxiv.org/pdf/1711.01369.pdf
 
